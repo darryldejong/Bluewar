@@ -1,2 +1,2 @@
 # Bluewar
-A roblox game made in luna.
+A roblox game made in lua
